@@ -1,6 +1,6 @@
-# Paige Template
+# Paige App
 
-A minimal landing page template built with Next.js and shadcn/ui.
+A minimal landing page with Next.js and shadcn/ui.
 
 ## Getting Started
 

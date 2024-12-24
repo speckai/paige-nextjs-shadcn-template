@@ -10,7 +10,9 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center p-4">
       <Card className="w-full max-w-lg">
         <CardHeader>
-          <CardTitle className="text-2xl font-bold">Paige Template</CardTitle>
+          <CardTitle className="text-2xl font-bold">
+            Setting up your project...
+          </CardTitle>
           <CardDescription>
             Paige is currently setting up your project. The changes will be
             reflected here shortly.

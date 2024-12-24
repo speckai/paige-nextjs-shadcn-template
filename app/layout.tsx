@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Paige Template",
+  title: "Paige App",
   description:
     "If you're seeing this, Paige is currently setting up your project. The changes will be reflected here shortly.",
 };
